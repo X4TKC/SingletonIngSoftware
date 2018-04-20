@@ -3,7 +3,8 @@
  */
 public class A {
 
-    private String Alpha = "DSAqweqw";
-    private String asd = "";
+
+    private String Alpha = "Asd";
+
 
 }
