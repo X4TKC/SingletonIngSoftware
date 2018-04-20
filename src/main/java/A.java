@@ -4,5 +4,6 @@
 public class A {
 
     private String Alpha = "DSAqweqw";
+    private String asd = "pwd";
 
 }
